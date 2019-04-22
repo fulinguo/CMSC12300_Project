@@ -1,6 +1,6 @@
 # CMSC12300_Project
 
-Group members:
+Group members:  
 Ying Sun  
 Jiaxu Han  
 Fulin Guo  
