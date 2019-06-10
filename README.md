@@ -29,9 +29,12 @@ python3 user_to_user_model_3.py -r dataproc --num-core-instances 6 user_to_user_
 
 python3 user_to_user_model_4.py -r dataproc --num-core-instances 6 user_to_user_data.csv
 
-*Note*
+*Note.*
+
 cluster_data.csv can be found in Data folder
+
 user_to_user_data.csv can be downloaded from a public bucket gs://hanjiaxu/user_to_user.csv (see Data folder readme)
+
 Other .py files can be found in Code folder
 
 *Parameters*
