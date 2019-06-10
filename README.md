@@ -11,6 +11,7 @@ Ellen Hsieh
 ### In terminal:
 
 #### Clustering Algorithm:
+```
 python3 cluster_model_1.py -r dataproc --num-core-instances 6 cluster_data.csv
 
 python3 cluster_model_2.py -r dataproc --num-core-instances 6 cluster_data.csv
@@ -18,9 +19,9 @@ python3 cluster_model_2.py -r dataproc --num-core-instances 6 cluster_data.csv
 python3 cluster_model_3.py -r dataproc --num-core-instances 6 cluster_data.csv
 
 python3 cluster_model_4.py -r dataproc --num-core-instances 6 cluster_data.csv
-
+```
 #### User-to-user Algorithm:
-
+```
 python3 user_to_user_model_1.py -r dataproc --num-core-instances 6 user_to_user_data.csv
 
 python3 user_to_user_model_2.py -r dataproc --num-core-instances 6 user_to_user_data.csv
@@ -28,11 +29,11 @@ python3 user_to_user_model_2.py -r dataproc --num-core-instances 6 user_to_user_
 python3 user_to_user_model_3.py -r dataproc --num-core-instances 6 user_to_user_data.csv
 
 python3 user_to_user_model_4.py -r dataproc --num-core-instances 6 user_to_user_data.csv
-
+```
 #### Friend recommendation:
-
+```
 python3 friend_recommendation.py -r dataproc --num-core-instances 6 friend_recommendation_data.csv
-
+```
 #### *Note.*
 
 cluster_data.csv can be found in Data folder
