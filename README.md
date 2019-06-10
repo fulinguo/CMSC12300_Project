@@ -85,7 +85,7 @@ Weight: 0.7；
 Top 3 similar users
 
 #### *Result*
-![Image](imagine/figure.png)
+![Image](imagine/result.png)
 
 ##### Please refer to the final report for specific meanings about the parameters
 
