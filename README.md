@@ -31,7 +31,7 @@ python3 user_to_user_model_4.py -r dataproc --num-core-instances 6 user_to_user_
 
 #### Friend recommendation:
 
-python3 friend_recommendation.py -r dataproc --num-core-instances 6 _data.csv
+python3 friend_recommendation.py -r dataproc --num-core-instances 6 friend_recommendation_data.csv
 
 #### *Note.*
 
