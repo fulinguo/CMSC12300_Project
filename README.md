@@ -88,7 +88,7 @@ Top 3 similar users
 Weight: 0.7；
 Top 3 similar users
 
-#### *Result*
+## *Result*
 ![Image](imagine/result.png)
 
 ##### Please refer to the final report for specific meanings about the parameters
