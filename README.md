@@ -39,6 +39,8 @@ cluster_data.csv can be found in Data folder
 
 user_to_user_data.csv can be downloaded from a public bucket gs://hanjiaxu/user_to_user.csv (see Data folder readme)
 
+friend_recommendation_data.csv can be found in Data folder
+
 Other .py files can be found in Code folder
 
 
