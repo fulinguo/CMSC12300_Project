@@ -85,6 +85,10 @@ Top 3 similar users
 Weight: 0.7；
 Top 3 similar users
 
+#### *Result*
+![alt text](https://github.com/sunying2018/CMSC12300_Project/tree/master/imagine/figure.png)
+
+
 ##### Please refer to the final report for specific meanings about the parameters
 
 
